@@ -180,6 +180,7 @@ function newGame() {
 
 ```
 ### project 5
+unlimited color project
 
 ```javascript
 
